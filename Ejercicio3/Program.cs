@@ -1,6 +1,4 @@
-﻿using POO_Ejercicios.Ejercicio3;
-
-namespace POO_Ejercicios
+﻿namespace POO_Ejercicios.Ejercicio3
 {
     internal class Program
     {
